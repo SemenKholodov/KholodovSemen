@@ -1,3 +1,3 @@
 git branch name
 git checkout name
-just anover couple of string
+после создания и перехода можно работать как с простым репозиторием
